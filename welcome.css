@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+video
+{
+    width: 100%;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link 
+{
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color:white;
+    font-size: 1.2rem;
+
+}
+
+.container1{
+    background-color: #d1cdcd;
+    display: flex;
+}
+.container1 img
+{
+    height:300px;
+    width: 300px;
+    margin: 2% 4%;
+
+}
+
+.container1 .title
+{
+    padding: 10% 14%;
+}
+.container2
+{
+    background-color:white;
+    display: flex;
+}
+.container2 img
+{
+    height:300px;
+    width: 300px;
+    margin: 2% 4%;
+
+}
+
+.container2 .title{
+    padding: 10% 14%;
+}
